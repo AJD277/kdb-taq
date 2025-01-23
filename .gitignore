@@ -1,2 +1,5 @@
-*.data
-*.csv
+quote.txt* 
+sym.q* 
+trade.txt* 
+util.q* 
+dbmaint.q*
